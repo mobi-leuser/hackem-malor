@@ -18,9 +18,9 @@ COMPRESSBIN="/bin/gzip"
 NH_GIT="/home/build/HackEM"
 NH_BRANCH="master"
 # HACKDIR from include/config.h; aka nethack subdir inside chroot
-NHSUBDIR="hackem-1.3.2"
+NHSUBDIR="hackem-1.2.2"
 # VAR_PLAYGROUND from include/unixconf.h
-NH_VAR_PLAYGROUND="/hackem-1.3.2/var/"
+NH_VAR_PLAYGROUND="/hackem-1.2.2/var/"
 # END OF CONFIG
 ##############################################################################
 
