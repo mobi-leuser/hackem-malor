@@ -2456,7 +2456,7 @@ int tech;
 {
 	char buf[BUFSZ] = DUMMY;
 	char promptbuf[BUFSZ];
-	register struct obj *otmp;
+	register struct obj *otmp = NULL;
 	if (tech == T_ABSORB_ARMOR) {
 		otmp = getobj(armor_types, "absorb");
 	} else if (tech == T_ABSORB_WEAPON) {
