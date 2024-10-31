@@ -39,7 +39,7 @@
  * to individual level files matter; changes to general game state don't)
  * but the extra complexity to support that is not worth the effort.]
  */
-#define VERSION_COMPATIBILITY 0x01020200L
+#define VERSION_COMPATIBILITY 0x01030200L
 
 /****************************************************************************/
 /* Version 3.6.x */
